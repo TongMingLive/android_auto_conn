@@ -1,0 +1,1 @@
+{'url': 'C:\\Users\\tong-\\AppData\\Local\\Android\\sdk\\platform-tools\\adb.exe', 'android': '172.20.9.185'}
